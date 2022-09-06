@@ -1,8 +1,13 @@
-# car-sdm
-These R scripts are in support of 'Climate change induced shifts in suitable habitat for five tree species in the Pacific Northwest projected with spatial-Bayesian hierarchical models' by Karin Kralicek, Jay Ver Hoef, Tara Barrett, and Temesgen Hailemariam. There are 13 scripts in this project, which begin with a number indicating their order in the workflow. This repository is archived and read-only.
+### These R scripts are in support of 'Climate change induced shifts in suitable habitat projected for PNW tree species with spatial-Bayesian models.'
+#### Karin Kralicek<sup>1,2</sup>, Jay M. Ver Hoef<sup>3</sup>, Tara M. Barrett<sup>4</sup>, and Temesgen Hailemariam<sup>2</sup> 
+<sup>1</sup>Forest Inventory and Analysis Program, Rocky Mountain Research Station, USDA Forest Service, Fort Collins, CO, United States; <sup>2</sup>Forest Measurements and Biometrics Laboratory, Department of Forest Engineering, Resources, and Management, Oregon State University, Corvallis, OR, United States; <sup>3</sup>Marine Mammal Laboratory, Alaska Fisheries Science Center, NOAA National Marine Fisheries Service, Seattle, WA, United States; <sup>4</sup>Pacific Northwest Research Station, USDA Forest Service, Wenatchee, WA, United States
 
+The manuscript is currently under review with Ecosphere.
 
-Definition of scripts:
+---
+### There are 13 scripts in this project, which begin with a number indicating their order in the workflow. 
+
+#### Definition of scripts:
 
 * 0-functions.R: contains function definitions and is sourced in other project scripts in order to keep those other scripts tidy. 
 
@@ -31,11 +36,10 @@ Definition of scripts:
 * 12-model-check-morans-i.R: performs a type of Bayesian model-check by evaluating model performance with Moran's I at different distance classes.
 
 
-Note on data: 
+#### Note on data: 
 
-The raw data supporting the conclusions of this article are based on confidential, precise-location coordinates for FIA plots. Fuzzed (imprecise) versions of these raw data will be made available by the corresponding author upon request, without undue reservation. For access to precise-location information see Burrill et al. (2021).
+The raw data supporting the conclusions of this manuscript are based on confidential, precise-location coordinates for FIA field data. Imprecise-location (fuzzed) versions of raw FIA field data are available at https://apps.fs.usda.gov/fia/datamart/datamart.html. For more information on access to precise-location FIA data see Burrill et al. (2021). Requests to access these datasets should be directed to https://www.fia.fs.usda.gov/about/about_us/#questions-requests.
 
-
-Citations:
+#### Citations:
 
 Burrill, E. A., DiTommaso, A. M., Turner, J. A., Pugh, S. A., Menlove, J., Christiansen, G., et al. (2021). The Forest Inventory and Analysis Database: database description and user guide version 9.0.1 for Phase 2. U.S. Department of Agriculture, Forest Service. Available online at: http://www.fia.fs.fed.us/library/database-documentation/
