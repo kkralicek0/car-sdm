@@ -42,4 +42,4 @@ The raw data supporting the conclusions of this manuscript are based on confiden
 
 #### Citations:
 
-Burrill, E. A., DiTommaso, A. M., Turner, J. A., Pugh, S. A., Menlove, J., Christiansen, G., et al. (2021). The Forest Inventory and Analysis Database: database description and user guide version 9.0.1 for Phase 2. U.S. Department of Agriculture, Forest Service. Available online at: http://www.fia.fs.fed.us/library/database-documentation/
+Burrill, E. A., DiTommaso, A. M., Turner, J. A., Pugh, S. A., Menlove, J., Christiansen, G., et al. (2021). The Forest Inventory and Analysis Database: database description and user guide version 9.0.1 for Phase 2. U.S. Department of Agriculture, Forest Service. Available online at: http://www.fia.fs.usda.gov/library/database-documentation/
