@@ -4,8 +4,8 @@
 ## Updated - 09-02-2022
 ## Author  - Karin Kralicek (karin.kralicek@usda.gov)
 ## 
-## This R script is in support of 'Climate change induced shifts in suitable
-## habitat projected for PNW tree species with spatial-Bayesian models' by 
+## This R script is in support of 'Spatial-Bayesian models project shifts in 
+## suitable habitat for Pacific Northwest tree species under climate change' by
 ## Karin Kralicek, Jay M. Ver Hoef, Tara M. Barrett, and Temesgen Hailemariam.
 ## 
 ## About - this script:
