@@ -2,7 +2,7 @@
 #### Karin Kralicek<sup>1,2</sup>, Jay M. Ver Hoef<sup>3</sup>, Tara M. Barrett<sup>4</sup>, and Temesgen Hailemariam<sup>2</sup> 
 <sup>1</sup>Forest Inventory and Analysis Program, Rocky Mountain Research Station, USDA Forest Service, Fort Collins, CO, United States; <sup>2</sup>Forest Measurements and Biometrics Laboratory, Department of Forest Engineering, Resources, and Management, Oregon State University, Corvallis, OR, United States; <sup>3</sup>Marine Mammal Laboratory, Alaska Fisheries Science Center, NOAA National Marine Fisheries Service, Seattle, WA, United States; <sup>4</sup>Pacific Northwest Research Station, USDA Forest Service, Wenatchee, WA, United States
 
-The manuscript is currently accepted for publication in Ecosphere.
+The manuscript is currently accepted for publication in Ecosphere.  
 
 ---
 ### There are 13 scripts in this project, which begin with a number indicating their order in the workflow. 
