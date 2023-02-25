@@ -4,7 +4,7 @@
 
 The manuscript is currently accepted for publication in Ecosphere.
 
-#### Kralicek K, Ver Hoef JM, Barrett TM, and Temesgen H (XXXX) Spatial-Bayesian models project shifts in suitable habitat for Pacific Northwest tree species under climate change. Ecosphere X:XXXX. doi: XXXX
+#### Kralicek K, Ver Hoef JM, Barrett TM, and Temesgen H (2023) Spatial-Bayesian models project shifts in suitable habitat for Pacific Northwest tree species under climate change. Ecosphere. doi: 10.1002/ecs2.4449
 
 ---
 ### There are 13 scripts in this project, which begin with a number indicating their order in the workflow. 
